@@ -1,5 +1,5 @@
-pub mod asm;
-pub mod disasm;
+mod asm;
+mod disasm;
 #[allow(clippy::all)]
 pub mod mlist;
 
